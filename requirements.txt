@@ -1,0 +1,4 @@
+ultralytics 
+streamlit 
+pafy
+pytube
